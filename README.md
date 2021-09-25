@@ -1,6 +1,6 @@
-•	Nan Hong, Dmitry Kireev, Qishen Zhao, Dongmei Chen, Deji Akinwande and Wei Li. "Roll-to-Roll Dry Transfer of Large-scale Graphene." (Advanced Material, in submission) 
+•	Nan Hong, Dmitry Kireev, Qishen Zhao, Dongmei Chen, Deji Akinwande and Wei Li. "Roll-to-Roll Dry Transfer of Large-scale Graphene." (Advanced Material, received reviewer comments, in submission) 
 
-•	Qishen Zhao, Nan Hong, Dongmei Chen and Wei Li. "Angle Control and Dynamic Simulation of Roll-to-Roll Manufacturing Process. " (ASME, Journal of Dynamic Systems, Measurement and Control, in submission)
+•	Qishen Zhao, Nan Hong, Dongmei Chen and Wei Li. "A Dynamic System Model for Roll-to-Roll Dry Transfer of Two-Dimensional Materials and Printed Electronics. " (ASME, Journal of Dynamic Systems, Measurement and Control, in submission)
 
 •	Weishen Chu, Jiahe Lv and Nan Hong. "Finite Element Analysis of Peltier Effect based Thermoelectric Cooling System for Microprocessors. " International Conference on Applied Mechanics, Materials and Manufacturing. (AMMM 2021) (Corresponding Author) 
 
