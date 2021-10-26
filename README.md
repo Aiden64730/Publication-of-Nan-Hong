@@ -4,13 +4,11 @@
 
 •	Qishen Zhao, **Nan Hong**, Dongmei Chen and Wei Li. "A Dynamic System Model for Roll-to-Roll Dry Transfer of Two-Dimensional Materials and Printed Electronics." (ASME, Journal of Dynamic Systems, Measurement and Control, submitted)
 
-•	Qishen Zhao, Christopher Martin, **Nan Hong**, Dongmei Chen and Wei Li. "A Real-time Supervisory Control Strategy for Roll-to-Roll Dry Transfer of 2D Materials and Printed Electronics." (ASME, Journal of Dynamic Systems, Measurement and Control, submitted)
-
-•	Qishen Zhao, Christopher Martin, **Nan Hong**, Dongmei Chen and Wei Li. "Tension Control in Roll-to-Roll Mechanical Peeling for 2D Material Transfer and Transfer Printing." Proceedings of the 2021 International Conference on Micro- and Nano-devices Enabled by R2R Manufacturing. (submitted with Oral Presentation)
+•	Qishen, Zhao, **Nan Hong**, Dongmei Chen, and Wei Li. "Controlling Peeling Front Geometry in a Roll-to-Roll Thin Film Transfer Process." In International Manufacturing Science and Engineering Conference, vol. 84256, p. V001T05A017. American Society of Mechanical Engineers, 2020
 
 •	Weishen Chu, Jiahe Lv and **Nan Hong**. "Finite Element Analysis of Peltier Effect based Thermoelectric Cooling System for Microprocessors." International Conference on Applied Mechanics, Materials and Manufacturing. (AMMM 2021) (Corresponding Author) 
 
-•	Qishen, Zhao, **Nan Hong**, Dongmei Chen, and Wei Li. "Controlling Peeling Front Geometry in a Roll-to-Roll Thin Film Transfer Process." In International Manufacturing Science and Engineering Conference, vol. 84256, p. V001T05A017. American Society of Mechanical Engineers, 2020
+•	Qishen Zhao, Christopher Martin, **Nan Hong**, Dongmei Chen and Wei Li. "A Real-time Supervisory Control Strategy for Roll-to-Roll Dry Transfer of 2D Materials and Printed Electronics." (ASME, Journal of Dynamic Systems, Measurement and Control, received )
 
 •	Cho, Joon Hyong, Ian S. Ladner, **Nan Hong**, Guoao Sun, and Michael A. Cullinan. "DESIGN AND FABRICATION OF STRAIN-BASED TUNABLE GRAPHENE NEMS RESONATOR." (Proceedings of the Napa Microsystems Workshop)
 
